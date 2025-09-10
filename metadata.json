@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Da liễu AI",
+  "description": "Một ứng dụng AI dành cho bác sĩ da liễu với kinh nghiệm hơn 10 năm để đưa ra nguyên nhân, chẩn đoán tình trạng da từ hình ảnh của bệnh nhân và tạo ra phác đồ điều trị phù hợp bằng cách sử dụng danh sách sản phẩm và thiết bị thẩm mỹ được xác định trước. ",
+  "requestFramePermissions": []
+}
